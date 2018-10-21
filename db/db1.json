@@ -1,0 +1,14 @@
+{
+  "students": [
+    {
+      "name": "Van Hai Le",
+      "age": 20,
+      "sex": "M",
+      "groupName": "4",
+      "phoneNumber": 987,
+      "skills": "",
+      "email": "vanhail@asdf",
+      "appearance": 3
+    }
+  ]
+}
