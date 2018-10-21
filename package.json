@@ -1,0 +1,22 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanhaile1798/CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanhaile1798/CLI/issues"
+  },
+  "homepage": "https://github.com/vanhaile1798/CLI#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
