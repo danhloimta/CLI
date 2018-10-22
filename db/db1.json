@@ -1,14 +1,74 @@
 {
   "students": [
     {
-      "name": "Van Hai Le",
-      "age": 20,
+      "name": "Le Hai",
+      "age": 22,
       "sex": "M",
       "groupName": "4",
-      "phoneNumber": 987,
+      "phoneNumber": 444444,
+      "skills": "sadf",
+      "email": "asdfsa@sadf",
+      "appearance": 4
+    },
+    {
+      "name": "Van Hai",
+      "age": 23,
+      "sex": "M",
+      "groupName": "3",
+      "phoneNumber": 333333,
+      "skills": "asd",
+      "email": "fasdf@sadf",
+      "appearance": 2
+    },
+    {
+      "name": "Hai Le",
+      "age": 24,
+      "sex": "M",
+      "groupName": "4",
+      "phoneNumber": 909999,
       "skills": "",
-      "email": "vanhail@asdf",
-      "appearance": 3
+      "email": "sadf@asdfas",
+      "appearance": 4
+    },
+    {
+      "name": "Khanh",
+      "age": 35,
+      "sex": "M",
+      "groupName": "5",
+      "phoneNumber": 989898,
+      "skills": "",
+      "email": "aksdjf@sadlfksd",
+      "appearance": 4
+    },
+    {
+      "name": "Lien",
+      "age": 22,
+      "sex": "F",
+      "groupName": "2",
+      "phoneNumber": 987897,
+      "skills": "",
+      "email": "asldjf@asdf",
+      "appearance": 5
+    },
+    {
+      "name": "Tuann",
+      "age": 54,
+      "sex": "M",
+      "groupName": "3",
+      "phoneNumber": 98333,
+      "skills": "",
+      "email": "asdf@gmail.com",
+      "appearance": 2
+    },
+    {
+      "name": "Van",
+      "age": 11,
+      "sex": "F",
+      "groupName": "3",
+      "phoneNumber": 998989,
+      "skills": "asdf",
+      "email": "asdf@sadf",
+      "appearance": 5
     }
   ]
 }
